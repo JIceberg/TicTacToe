@@ -5,4 +5,4 @@
 A tic-tac-toe game for [Matt](https://www.linkedin.com/in/matthewyangcs/).
 
 ---
-Requires python 3.8 or higher. Runs on tkinter.
+Install the necessary dependencies. Requires python 3.8 or higher. Runs on tkinter. Eggmega.
